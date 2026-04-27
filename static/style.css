@@ -1,0 +1,25 @@
+<meta name='viewport' content='width=device-width, initial-scale=1'/><style>body {
+    background: linear-gradient(to right, #f8f9fa, #e9ecef);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1, h2 {
+    font-weight: bold;
+}
+
+.card {
+    border-radius: 12px;
+}
+
+.btn-success {
+    background-color: #27ae60;
+    border: none;
+}
+
+.btn-success:hover {
+    background-color: #219150;
+}
+
+.graph {
+    margin-top: 20px;
+}</style>
